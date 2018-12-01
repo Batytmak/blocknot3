@@ -19,6 +19,7 @@ public class Glavnoeokno extends JDialog {
             public void actionPerformed(ActionEvent e) {
                 onOK();
             }
+            
         });
 
         // call onCancel() when cross is clicked
